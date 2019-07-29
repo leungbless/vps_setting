@@ -102,7 +102,7 @@ section {
 	padding-right: 0px;
 }
 .main-banner .banner-content {
-	background-image: url(../images/main-banner.jpg);
+	background-image: url(../myphoto/montain.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -112,6 +112,7 @@ section {
 	background-color: rgba(250,250,250,0.95);
 	margin: 50px;
 	padding: 50px;
+	opacity: 0.8;/*透明度的设置Hello_welcome_to_my_blog的那个div*/
 }
 
 .main-banner .banner-content .banner-caption h4 {
